@@ -1,1 +1,1 @@
-tmp = ''
+tmp = '/tmp/bad_file'
